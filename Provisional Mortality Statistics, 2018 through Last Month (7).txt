@@ -1,0 +1,64 @@
+"Notes"	"Residence Census Region"	"Residence Census Region Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	4107	28750649	14.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	10725	27360430	39.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	4049	28679128	14.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	10738	27303675	39.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	4762	28606350	16.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	12671	27243519	46.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 (provisional and partial)"	"2021"	"Female"	"F"	2708	28606350	9.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 (provisional and partial)"	"2021"	"Male"	"M"	6859	27243519	25.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	4741	34580567	13.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	9637	33728177	28.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	4718	34587304	13.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	10302	33741700	30.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	5795	34581450	16.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	13323	33735294	39.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 (provisional and partial)"	"2021"	"Female"	"F"	3217	34581450	9.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 (provisional and partial)"	"2021"	"Male"	"M"	7509	33735294	22.3
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	7231	63613086	11.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	14736	61140862	24.1
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	7430	64050066	11.6
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	16013	61530382	26.0
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	10208	64626584	15.8
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	23175	62036170	37.4
+	"Census Region 3: South"	"CENS-R3"	"2021 (provisional and partial)"	"2021"	"Female"	"F"	5865	64626584	9.1
+	"Census Region 3: South"	"CENS-R3"	"2021 (provisional and partial)"	"2021"	"Male"	"M"	13309	62036170	21.5
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	3619	39094453	9.3
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	8442	38899210	21.7
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	3882	39265701	9.9
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	9680	39081567	24.8
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	5147	39413537	13.1
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	13732	39241219	35.0
+	"Census Region 4: West"	"CENS-R4"	"2021 (provisional and partial)"	"2021"	"Female"	"F"	3090	39413537	7.8
+	"Census Region 4: West"	"CENS-R4"	"2021 (provisional and partial)"	"2021"	"Male"	"M"	8071	39241219	20.6
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"MCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44)"
+"Group By: Residence Census Region; Year; Gender"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Feb 1, 2022 10:54:01 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Provisional Multiple"
+"Cause of Death on CDC WONDER Online Database, released 2021. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2020-2021, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Feb 1, 2022 10:54:01"
+"PM"
+"---"
+Caveats:
+"1. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"3. Deaths occurring through December 18,2021 as of January 02,2022."
